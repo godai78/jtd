@@ -6,3 +6,9 @@ url: https://godai78.github.io/jtd
 
 aux_links:
   Template Repository: https://github.com/godai78/jtd
+
+search_enabled: true
+
+nav_enabled: true
+
+footer_content: "All materials licensed CC-BY-SA Bartek Biedrzycki 2025"
