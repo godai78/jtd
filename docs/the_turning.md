@@ -6,7 +6,7 @@ nav_order: 40
 
 ![Witch World](../assets/img/swiat_czarownic.png "Witch World")
 
-# The Turning cycle / The Chronicles of the Witch World
+# The Turning cycle / The Chronicles
 
 A set of journey and adventures that came as the result of The Turning. Welcome back some of the old protagonists and some of the new ones. Each book was written by a different author invited to the project.
 
