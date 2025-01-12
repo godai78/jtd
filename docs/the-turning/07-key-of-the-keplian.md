@@ -1,6 +1,6 @@
 ---
 title: The Key of the Keplian
-parent: The Estcarp Cycle
+parent: The Turning Cycle
 layout: default
 nav_order: 70
 ---
