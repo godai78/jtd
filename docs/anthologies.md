@@ -4,7 +4,7 @@ layout: default
 nav_order: 50
 ---
 
-![Witch World](assets/swiat_czarownic.png "Witch World")
+![Witch World](../assets/img/swiat_czarownic.png "Witch World")
 
 # The Anthologies 
 

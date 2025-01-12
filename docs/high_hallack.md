@@ -4,7 +4,7 @@ layout: default
 nav_order: 30
 ---
 
-![Witch World](assets/swiat_czarownic.png "Witch World")
+![Witch World](../assets/img/swiat_czarownic.png "Witch World")
 
 # The High Hallack cycle 
 
