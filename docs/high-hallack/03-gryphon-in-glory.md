@@ -9,4 +9,7 @@ nav_order: 30
 
 # Gryphon in Glory
 
-Description goes here
+<audio controls>
+	 <source src="../../assets/mp3/godai_w_swiecie_czarownic_odcinek_11.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+</audio>

@@ -9,4 +9,7 @@ nav_order: 80
 
 # Jargoon Pard
 
-Description goes here
+<audio controls>
+	 <source src="../../assets/mp3/godai_w_swiecie_czarownic_odcinek_16.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+</audio>
