@@ -5,8 +5,8 @@ layout: default
 nav_order: 10
 ---
 
-![Witch World](../assets/img/swiat_czarownic.png "Witch World")
+![Witch World](../../assets/img/swiat_czarownic.png "Witch World")
 
 # The Witch World 
 
-mp3 file goes here
+Description goes here
