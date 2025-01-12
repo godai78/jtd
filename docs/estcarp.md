@@ -8,13 +8,13 @@ nav_order: 20
 
 # The Estcarp cycle 
 
-* The Witch World, 1963
-* Świat Czarownic w pułapce (Web of the Witch World, 1964), w Polsce w 1990 roku
-* Troje przeciw Światu Czarownic (Three Against the Witch World, 1965), w Polsce w 1991 roku
-* Czarodziej ze Świata Czarownic (Warlock of the Witch World, 1967), w Polsce w 1991 roku
-* Czarodziejka ze Świata Czarownic (Sorceress of the Witch World, 1968), w Polsce w 1991 roku
-* Czarodziejskie miecze (Trey of Swords, 1977), w Polsce w 1993 roku
-* Strzeż się sokoła (Ware Hawk, 1983), w Polsce w 1991 roku
-* Brama Kota (Gate of the Cat, 1987), w Polsce w 1991 roku
-* Ciara's Song (1998), wraz z Lyn McConchie (niewydana w Polsce)
-* The Dukes Ballad (2005), wraz z Lyn McConchie (niewydana w Polsce)*
+* [The Witch World](estcarp/01-witch-world.md), 1963
+* [Web of the Witch World](estcarp/02-web-of-the-witch-world.md), 1964
+* [Three Against the Witch World](estcarp/03-three-against-the-witch-world.md), 1965
+* [Warlock of the Witch World](estcarp/04-warlock-of-the-witch-world.md), 1967
+* [Sorceress of the Witch World](estcarp/04-warlock-of-the-witch-world.md), 1968
+* [Trey of Swords](estcarp/06-trey-of-swords.md), 1977
+* [Ware Hawk](estcarp/07-ware-hawk.md), 1983
+* [Gate of the Cat](estcarp/08-gate-of-the-cat.md), 1987
+* [Ciara's Song](estcarp/09-ciaras-song.md), 1998, with Lyn McConchie
+* [The Dukes Ballad](estcarp/10-dukes-ballad.md), 2005, with Lyn McConchie

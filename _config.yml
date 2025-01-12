@@ -12,3 +12,5 @@ search_enabled: true
 nav_enabled: true
 
 footer_content: "All materials licensed CC-BY-SA Bartek Biedrzycki 2025"
+
+color_scheme: dark
