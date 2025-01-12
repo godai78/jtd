@@ -6,6 +6,6 @@ nav_order: 40
 
 ![Witch World](../assets/img/swiat_czarownic.png "Witch World")
 
-# The Turning cycle / The Chronicles of the WItch World
+# The Turning cycle / The Chronicles of the Witch World
 
 Book list goes here

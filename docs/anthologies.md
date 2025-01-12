@@ -1,5 +1,5 @@
 ---
-title: The Witch World anthologies
+title: The Anthologies
 layout: default
 nav_order: 50
 ---
