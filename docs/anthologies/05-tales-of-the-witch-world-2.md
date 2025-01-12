@@ -1,5 +1,5 @@
 ---
-title: The Witch World
+title: Tales of the Witch World 2
 parent: The Anthologies
 layout: default
 nav_order: 50
