@@ -7,6 +7,6 @@ nav_order: 10
 
 ![Witch World](../../assets/img/swiat_czarownic.png "Witch World")
 
-# The Witch World 
+# The Witch World
 
 Description goes here
