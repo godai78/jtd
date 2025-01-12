@@ -1,6 +1,7 @@
 ---
 title: The Estcarp Cycle
-Nav_order: 10
+layout: home
+nav_order: 10
 ---
 
 ![Witch World](assets/swiat_czarownic.png "Witch World")
