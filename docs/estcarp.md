@@ -1,6 +1,6 @@
 ---
 title: The Estcarp Cycle
-layout: home
+layout: default
 nav_order: 10
 ---
 
